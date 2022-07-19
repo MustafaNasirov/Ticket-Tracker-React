@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MustafaNasirov/Ticket-Tracker-React/static/css/main.e6c13ad2.css",
+    "main.js": "/MustafaNasirov/Ticket-Tracker-React/static/js/main.dd387672.js",
+    "static/js/787.99c52fad.chunk.js": "/MustafaNasirov/Ticket-Tracker-React/static/js/787.99c52fad.chunk.js",
+    "index.html": "/MustafaNasirov/Ticket-Tracker-React/index.html",
+    "main.e6c13ad2.css.map": "/MustafaNasirov/Ticket-Tracker-React/static/css/main.e6c13ad2.css.map",
+    "main.dd387672.js.map": "/MustafaNasirov/Ticket-Tracker-React/static/js/main.dd387672.js.map",
+    "787.99c52fad.chunk.js.map": "/MustafaNasirov/Ticket-Tracker-React/static/js/787.99c52fad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dd387672.js"
+  ]
+}
