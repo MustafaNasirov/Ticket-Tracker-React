@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ticket-Tracker-React/static/css/main.f02fa8c0.css",
-    "main.js": "/Ticket-Tracker-React/static/js/main.137f98b1.js",
-    "static/js/787.1e8c6906.chunk.js": "/Ticket-Tracker-React/static/js/787.1e8c6906.chunk.js",
-    "index.html": "/Ticket-Tracker-React/index.html",
-    "main.f02fa8c0.css.map": "/Ticket-Tracker-React/static/css/main.f02fa8c0.css.map",
-    "main.137f98b1.js.map": "/Ticket-Tracker-React/static/js/main.137f98b1.js.map",
-    "787.1e8c6906.chunk.js.map": "/Ticket-Tracker-React/static/js/787.1e8c6906.chunk.js.map"
+    "main.css": "/ticket-tracker-react/static/css/main.f02fa8c0.css",
+    "main.js": "/ticket-tracker-react/static/js/main.7a6ddccc.js",
+    "static/js/787.43225dad.chunk.js": "/ticket-tracker-react/static/js/787.43225dad.chunk.js",
+    "index.html": "/ticket-tracker-react/index.html",
+    "main.f02fa8c0.css.map": "/ticket-tracker-react/static/css/main.f02fa8c0.css.map",
+    "main.7a6ddccc.js.map": "/ticket-tracker-react/static/js/main.7a6ddccc.js.map",
+    "787.43225dad.chunk.js.map": "/ticket-tracker-react/static/js/787.43225dad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f02fa8c0.css",
-    "static/js/main.137f98b1.js"
+    "static/js/main.7a6ddccc.js"
   ]
 }
