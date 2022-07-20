@@ -1,6 +1,6 @@
 {
-  "name": "Ticket-Tracker-React",
-  "homepage":"https://github.com/MustafaNasirov/Ticket-Tracker-React",
+  "name": "ticket-tracker-react",
+  "homepage":"https://MustafaNasirov.github.io/Ticket-Tracker-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
