@@ -8,8 +8,10 @@ import Nav from './components/Nav/Nav';
 const App = ()=> {
 
     const getEmployeeCards = team.map((employee)=>{
+      console.log(employee.ticketCount)
       return(
-        <EmployeeCard key={employee.id} name={employee.name} role={employee.role} ></EmployeeCard>
+        <EmployeeCard key={employee.id} name={employee.name} role={employee.role}/>
+        
       )
     });
   

@@ -4,9 +4,10 @@
     text-align: center;
     justify-content: center;
     width: 12rem;
+    height: 16rem;
     border: 0.2rem solid rgb(90, 94, 101);
     border-radius: 10px;
-    padding: 2%; 
+    padding: 2.5%; 
     background-color: white;
     box-shadow: 5px 0 10px rgba(0, 0, 0, 0.68);
 
@@ -16,14 +17,18 @@
         .card__role{
             font-weight: 900;
             font-size: 1.7rem;
+            padding-bottom: 1rem;
         }
         
         .card__name{
             font-weight: 600;
+            padding-bottom: 1rem;
         }
 
         .card__count{
             font-weight: 900;
+            padding-bottom: 1rem;
+            font-size: 2rem;
         }
     }
 
@@ -38,7 +43,7 @@
             font-weight: 600;
             background-color: rgb(49, 51, 55);
             color: whitesmoke;
-
+            width: 60px;
         }
 
         .card__button:hover{

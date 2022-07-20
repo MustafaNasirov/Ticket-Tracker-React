@@ -3,8 +3,8 @@ import { useState } from "react";
 
 
 
-const EmployeeCard = (props) => {
-    const {name, role} = props;
+const EmployeeCard = ({name, role}) => {
+   
     const [ticketCount, setTicketCount] = useState(0);
 
 
