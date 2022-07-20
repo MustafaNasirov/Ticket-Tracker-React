@@ -1,0 +1,11 @@
+.app{
+    background-color: rgb(49, 51, 55);
+}
+
+.cards-container{
+
+    display:flex;
+    justify-content:center;
+    gap: 1rem;
+    flex-wrap: wrap;  
+}

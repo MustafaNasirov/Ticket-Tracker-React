@@ -4,7 +4,7 @@ import { useState } from "react";
 
 
 const EmployeeCard = (props) => {
-    const {id, name, role} = props;
+    const {name, role} = props;
     const [ticketCount, setTicketCount] = useState(0);
 
 
@@ -18,22 +18,23 @@ const EmployeeCard = (props) => {
 
     return(
         <>
-            <div className="card__text">
-                <p className="card__title">{name}</p>
-                <p className="card__role">{role}</p>
-                <p className="card__count">{ticketCount}</p>
-            </div>
-            
-            <div className="card__counters">
-
-                <button onClick={onMinusButton} className="card__button card__button--minus">-</button>
-
-                <button onClick={onPlusButton} className="card__button card__button--plus">+</button>
+            <div className="card__container">
+                <div className="card__text">
+                    <p className="card__role">{role}</p>    
+                    <p className="card__name">{name}</p>
+                    <p className="card__count">{ticketCount}</p>
+                </div>
                 
+                <div className="card__counters">
+
+                    <button onClick={onMinusButton} className="card__button card__button--minus">-</button>
+
+                    <button onClick={onPlusButton} className="card__button card__button--plus">+</button>
+                    
+                </div>
+
             </div>
-
         </>
-
     )
 };
 
